@@ -23,7 +23,7 @@ public class Snow {
 
     public static void main(String[] args) {
         try {
-            System.out.println(stemSnowBall("who'll"));
+            System.out.println(stemSnowBall("change"));
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (NoSuchMethodException e) {
